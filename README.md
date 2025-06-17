@@ -44,8 +44,8 @@ As a Computer Science undergraduate with a passion for solving real-world proble
 
 ### 📊 GitHub Stats
 
-![Sali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tharunsai123&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharunsai123&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tharunsai123&show_icons=true&theme=radical)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharunsai123&layout=compact&theme=radical)
 
 ---
 
@@ -55,12 +55,6 @@ As a Computer Science undergraduate with a passion for solving real-world proble
     <a href="https://www.linkedin.com/in/tharun-sai-bheemireddy-b5764631b/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35"/>
     </a>
-    <!-- <a href="https://leetcode.com/u/kakumanilohitha/">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="LeetCode" width="35" height="35"/>
-    </a>
-    <a href="https://github.com/Lohitha-kakumani">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="35" height="35"/>
-    </a> -->
 </div>
 
 ---
