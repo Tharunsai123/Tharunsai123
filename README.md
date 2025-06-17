@@ -17,12 +17,12 @@ As a Computer Science undergraduate with a passion for solving real-world proble
 ---
 
 ### 🛠️ Core Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,html,css,js,react,nodejs,express,mongodb,firebase,flutter,git,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,html,css,js,react,nodejs,express,mongodb,git,github,figma)](https://skillicons.dev)
 
 ---
 
 ### 📚 Currently Exploring
-[![Learning](https://skillicons.dev/icons?i=aws,docker,threejs)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=aws,)](https://skillicons.dev)
 
 ---
 
