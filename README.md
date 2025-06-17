@@ -28,22 +28,17 @@ As a Computer Science undergraduate with a passion for solving real-world proble
 
 ### 🚀 Projects
 
-- 🔹 **AgriConnect App**  
-  *Flutter + Firebase mobile application empowering farmers to sell produce directly to consumers.*  
-  `Status:` In Progress
+- 🔹 **Efficient Bee Keeping by continuous monitoring data collection and analysis**  
+  *This project utilizes skills in Python, IoT, Flask, data analysis, SQLite, and embedded systems for real-time sensor integration and smart beekeeping management.*  
 
-- 🔹 **E-Commerce Web Platform**  
-  *A responsive MERN stack application with REST APIs, authentication, and cart management.*  
-  `Impact:` Reduced payment errors by 20%, improved server response time by 25%.
+- 🔹 **Hospital Management System**  
+  *A comprehensive Hospital Management System designed to efficiently manage patient records, appointments and feedbacks using a user-friendly interface.*  
 
-- 🔹 **Netflix Clone**  
-  *Frontend replica of Netflix using HTML/CSS/JavaScript with responsive carousel & navigation.*
+- 🔹 **File Encryption**  
+  *A secure file encryption and decryption tool built with Python and Flask, using XOR-based logic to protect sensitive data with a simple web interface.*
 
 - 🔹 **To-Do List Web App**  
-  *Built using vanilla JavaScript for dynamic task addition, deletion, and updates.*
-
-- 🔹 **HackerRank Automation**  
-  *Python-based automation for streamlining coding challenge submissions.*
+  *Built using JavaScript for dynamic task addition, deletion, and updates.*
 
 ---
 
